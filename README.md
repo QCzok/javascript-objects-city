@@ -2,7 +2,7 @@
 
 ## Aufgabenstellung - Teil 1
 Schreibe ein Objekt zu einer Stadt, in deren Nähe du wohnst.
-Das Objekt hat den Namen der Stadt und folgenden Inhalt:
+Das Objekt hat folgenden Inhalt:
 
 1. Name der Stadt
 2. Einwohnerzahl
@@ -12,4 +12,4 @@ Das Objekt hat den Namen der Stadt und folgenden Inhalt:
 
 ## Aufgabenstellung - Teil 2
 Schreibe eine Konsolenausgabe für das ganze Objekt.
-Als nächstes schreibe Konsolenausgaben für 1. bis 5. aus Aufgabenstelung Teil 1.
+Als nächstes schreibe Konsolenausgaben für 1. bis 5. aus Aufgabenstellung Teil 1.
